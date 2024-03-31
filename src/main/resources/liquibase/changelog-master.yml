@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: liquibase/scripts/skypro-telegram-bot.sql
